@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.5c88435090cf6d5d43d3c30d674c3862.js"
+  "/precache-manifest.e01f9a183946a99027a47e508f06668e.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "hrsystem"});
